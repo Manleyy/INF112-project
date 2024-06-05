@@ -1,7 +1,4 @@
-# Obama Gaming (Gruppe 5)
-### [Issue-Board](https://git.app.uib.no/Tarjei.Flotre/obama-gaming/-/boards)
-
-# The White House Protectors
+# [The White House Protectors](https://github.com/egorbostrov/2D_Tower_Defense)
 
 ## Team & Roller
 ### **Prosjektleder:** Egor Bostrov
